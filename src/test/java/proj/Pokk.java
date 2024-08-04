@@ -36,7 +36,26 @@ public class Pokk {
 public void oracle11() {
 System.out.println("");
 }
-public void oracle6() {
+public void sql() {
+	System.out.println("1234");
+	
+}
+public void java76() {
+	System.out.println("1334");
+	
+}
+public void sql3() {
+	System.out.println("1234");
+	
+}
+public void sql24() {
+	System.out.println("1234");
+}
+
+public void sql26() {
+System.out.println("");
+}
+public void sql28() {
 	System.out.println("1234");
 	
 }
